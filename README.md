@@ -8,7 +8,7 @@ A Node.JS Twitter Client That Extracts tweets from twitter directly and save the
 
 - [ttezel](https://github.com/ttezel/twit)
 
-[![Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z85ZKD48KWYU6#m)
+[![Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z85ZKD48KWYU6#m)]
   
   ### initialize project Feb 21st, 2016
 
