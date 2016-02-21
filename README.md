@@ -45,10 +45,18 @@ var client = new Twit({
 
 ```
 
-To start nodejs script in linux use
+#To start nodejs script in linux use
 ```javascript
 node index.js
 ```
+
+###saving structure
+```
+{ @username: xxxxxxxxx,
+Time: Sun Feb 21 22:36:43 +0000 2016,
+Source: xxxxx }
+```
+
 
 -------
 
