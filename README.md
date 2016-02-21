@@ -45,6 +45,11 @@ var client = new Twit({
 
 ```
 
+To start nodejs script in linux use
+```javascript
+node index.js
+```
+
 -------
 
 #What do I have access to?
