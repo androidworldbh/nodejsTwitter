@@ -16,6 +16,28 @@ A Node.JS Twitter Client That Extracts tweets from twitter directly and save the
 "[*] Ability to search by hashtag and save tweets".
 
 #Installing
+NOTE: If you are using Ubuntu Precise or Debian Wheezy, you might want to read about running Node.js >= 4.x on older distros.
+
+```
+curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
+sudo apt-get install -y nodejs
+```
+
+Alternatively, for Node.js v5:
+```
+curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash -
+sudo apt-get install -y nodejs
+```
+
+Optional: install build tools
+
+To compile and install native addons from npm you may also need to install build tools:
+```
+sudo apt-get install -y build-essential
+```
+
+##Installing npm
+
 Debian (Ubuntu/ Mint)
 ```
 sudo apt-get install npm
