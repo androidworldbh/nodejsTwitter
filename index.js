@@ -1,11 +1,6 @@
 var Twit = require('twit');
 var prompt = require('prompt');
-// var jsonfile = require('jsonfile');
-// var util = require('util');
-// var shell = require('shelljs');
 var fs = require("fs");
-// require('shelljs/global');
-// require('shelljs/make');
 
 var client = new Twit({
   consumer_key:         '...',
