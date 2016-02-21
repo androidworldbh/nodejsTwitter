@@ -46,8 +46,6 @@ prompt.get(['funNumber'], function (err, result) {
           "\r"+"}";
           fs.writeFile('tweets/'+data.user.screen_name+'.txt',dataTosave,function (err) {
             if (err) throw err;
-            //  console.log(data);
-            //  console.log(data.user.screen_name+': '+'saved!');
           });
 
         });
