@@ -8,10 +8,10 @@ var fs = require("fs");
 // require('shelljs/make');
 
 var client = new Twit({
-  consumer_key:         'lZIlBq7dI9khGOzK9Y8A3vmam',
-  consumer_secret:      'bAqeoGbAcWmeo6BNqTUMTPVkEX3ZXj96JfOewCy1Uu0ELgybkm',
-  access_token:         '2296359555-oxEd9Ckv0XHKV7PdesdotdDfgm3VS0mBUIFAVtO',
-  access_token_secret:  'dpAmCHBjZbFdGUpRXV0lz2GeLjNdDfpfq36v9CMS0942j',
+  consumer_key:         '...',
+  consumer_secret:      '...',
+  access_token:         '...',
+  access_token_secret:  '...',
   timeout_ms:           60*1000
 });
 
