@@ -67,7 +67,7 @@ var client = new Twit({
 
 ```
 
-#To start nodejs script in linux use
+#To start nodejs script in Linux/Windows/Mac OS
 ```javascript
 node index.js
 ```
