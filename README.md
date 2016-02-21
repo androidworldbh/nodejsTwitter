@@ -16,10 +16,16 @@ A Node.JS Twitter Client That Extracts tweets from twitter directly and save the
 "[*] Ability to search by hashtag and save tweets".
 
 #Installing
+Debian (Ubuntu/ Mint)
+```
+sudo apt-get install npm
+```
 
+twitter api via ttezel
 ```
 npm install twit
 ```
+A beautiful command-line prompt for node.js
 ```
 npm install prompt
 ```
